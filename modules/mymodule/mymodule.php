@@ -1,8 +1,8 @@
 <?php
+
 if (!defined('_PS_VERSION_')) {
     exit;
 }
-
 
 class MyModule extends Module
 {
@@ -52,5 +52,26 @@ class MyModule extends Module
         return true;
     }
 
+    public function hookDisplayLeftColumn($params)
+    {
+        $this->context->smarty->assign(
+            array(
+                'my_module_name' => Configuration::get('MYMODULE_NAME'),
+                'my_module_link' => $this->context->link->getModuleLink('mymodule', 'display'),
+                'my_module_message' => $this->l('This is a simple text message') // Do not forget to enclose your strings in the l() translation method
+            )
+        );
+        return $this->display(__FILE__, 'mymodule1.tpl');
+    }
+
+    public function hookDisplayRightColumn($params)
+    {
+        return $this->hookDisplayLeftColumn($params);
+    }
+
+    public function hookDisplayHeader()
+    {
+        $this->context->controller->addCSS($this->_path . 'css/mymodule.css', 'all');
+    }
 
 }
