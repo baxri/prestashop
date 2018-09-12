@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c2c57b63-3706-40d6-89f0-72866aa41f28" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/46/5b656e5f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/46/5b656e5f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/xml/trusted_modules_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/trusted_modules_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/xml/untrusted_modules_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/untrusted_modules_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mymodule/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mymodule/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prestashop.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/56/5b63653433363330323833353835363463396434363932396264303633336433635d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/56/5b63653433363330323833353835363463396434363932396264303633336433635d5b315d.doctrinecache.data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterDir="false" />
     </list>
@@ -31,8 +31,8 @@
       <file leaf-file-name="mymodule.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/mymodule/mymodule.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="70" column="46" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="46" />
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mymodule/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="216">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -73,10 +73,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/modules/mymodule/config.xml" />
-        <option value="$PROJECT_DIR$/modules/mymodule/mymodule.php" />
         <option value="$PROJECT_DIR$/modules/mymodule/views/templates/hooks/mymodule.tpl" />
         <option value="$PROJECT_DIR$/modules/mymodule/views/templates/hook/mymodule.tpl" />
         <option value="$PROJECT_DIR$/modules/mymodule/css/mymodule.css" />
+        <option value="$PROJECT_DIR$/modules/mymodule/mymodule.php" />
       </list>
     </option>
   </component>
@@ -120,13 +120,6 @@
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="mymodule" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="mymodule" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -167,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536605646360</updated>
       <workItem from="1536605648036" duration="778000" />
-      <workItem from="1536724647340" duration="1556000" />
+      <workItem from="1536724647340" duration="2323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2334000" />
+    <option name="totallyTimeSpent" value="3101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -187,7 +180,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21454546" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -251,10 +244,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mymodule/css/mymodule.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/prod/class_stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="221" column="48" selection-start-line="221" selection-start-column="48" selection-end-line="221" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/mymodule/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="216">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -265,17 +272,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mymodule/css/mymodule.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/mymodule/mymodule.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="70" column="46" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="46" />
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
