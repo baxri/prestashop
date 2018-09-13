@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-10 22:34:44
+/* Smarty version 3.1.32, created on 2018-09-13 23:32:16
   from '/Users/mac/Documents/php/prestashop/admin051cexwar/themes/default/template/controllers/themes_catalog/content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b96b944ba6fe7_96602959',
+  'unifunc' => 'content_5b9abb40866a16_17254005',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b96b944ba6fe7_96602959 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b9abb40866a16_17254005 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['display_addons_content']->value) {?>
 	<?php echo $_smarty_tpl->tpl_vars['addons_content']->value;?>
 

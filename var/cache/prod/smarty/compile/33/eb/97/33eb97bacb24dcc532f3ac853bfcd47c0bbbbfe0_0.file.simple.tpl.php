@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-10 22:34:24
+/* Smarty version 3.1.32, created on 2018-09-13 23:31:51
   from '/Users/mac/Documents/php/prestashop/admin051cexwar/themes/default/template/helpers/uploader/simple.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b96b930da5e11_13122703',
+  'unifunc' => 'content_5b9abb274ce974_94613223',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b96b930da5e11_13122703 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b9abb274ce974_94613223 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['files']->value) && count($_smarty_tpl->tpl_vars['files']->value) > 0) {?>
 	<?php $_smarty_tpl->_assignInScope('show_thumbnail', false);?>
 	<?php
