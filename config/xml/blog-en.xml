@@ -6,6 +6,14 @@
     <language>en</language>
      <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>How to Use Ecommerce Data to Understand Customer Behavior</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-data-to-understand-customer-behavior</link>
+    <description>Understanding customer behavior is one of the best ways to create an ecommerce strategy around customer satisfaction.</description>
+     <pubDate>Wed, 05 Sep 2018 17:53:14 +0200</pubDate>
+ <dc:creator>Divvit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-data-to-understand-customer-behavior</guid>
+  </item>
+  <item>
     <title>Why You Need Local Payment Options When Going Global </title>
     <link>https://www.prestashop.com/en/blog/why-you-need-local-payment</link>
     <description>We’ve all been there.
@@ -79,14 +87,6 @@ Edouard: “dithyrambique”. @dithyrambique it’s my name on Instagram @dithyr
      <pubDate>Fri, 20 Jul 2018 00:00:00 +0200</pubDate>
  <dc:creator>MLNielsen</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/en/blog/ambassadors-cyril-edouard-paris</guid>
-  </item>
-  <item>
-    <title>Join us at Dmexco 2018</title>
-    <link>https://www.prestashop.com/en/blog/come-with-us-at-dmexco-2018</link>
-    <description> </description>
-     <pubDate>Mon, 16 Jul 2018 11:14:46 +0200</pubDate>
- <dc:creator>Antoine Durantet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/en/blog/come-with-us-at-dmexco-2018</guid>
   </item>
   </channel>
 </rss>
