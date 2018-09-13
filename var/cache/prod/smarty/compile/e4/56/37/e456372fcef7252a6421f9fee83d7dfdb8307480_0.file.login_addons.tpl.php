@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-12 13:56:49
+/* Smarty version 3.1.32, created on 2018-09-13 14:54:44
   from 'D:\xampp7.1\htdocs\prestashop\admin051cexwar\themes\default\template\controllers\modules\login_addons.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b98e2e1615b01_10080025',
+  'unifunc' => 'content_5b9a41f478e814_41870947',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b98e2e1615b01_10080025 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b9a41f478e814_41870947 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal-body">
 <?php if ($_smarty_tpl->tpl_vars['add_permission']->value == '1') {?>

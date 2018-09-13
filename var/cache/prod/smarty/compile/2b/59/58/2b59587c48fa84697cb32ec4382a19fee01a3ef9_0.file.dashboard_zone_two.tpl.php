@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-12 13:27:26
+/* Smarty version 3.1.32, created on 2018-09-13 14:54:37
   from 'D:\xampp7.1\htdocs\prestashop\modules\dashgoals\views\templates\hook\dashboard_zone_two.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b98dbfe671e97_22687409',
+  'unifunc' => 'content_5b9a41eda7f032_77371439',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./config.tpl' => 1,
   ),
 ),false)) {
-function content_5b98dbfe671e97_22687409 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b9a41eda7f032_77371439 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="clearfix"></div>
 <?php echo '<script'; ?>
 >
