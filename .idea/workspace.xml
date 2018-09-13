@@ -2,331 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c57b63-3706-40d6-89f0-72866aa41f28" name="Default" comment="--">
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/xml/blog-en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tmp/lang_mini_1_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tmp/lang_mini_2_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/blockreassurance/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/contactform/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/cronjobs/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/dashactivity/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/dashgoals/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/dashproducts/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/dashtrends/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/gamification/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/gamification/views/css/advice-1.7.4.2_353.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/graphnvd3/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/gridhtml/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/mymodule/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/pagesnotfound/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_banner/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_categorytree/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_checkpayment/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_contactinfo/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_currencyselector/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_customeraccountlinks/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_customersignin/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_customtext/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_emailsubscription/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_facetedsearch/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_featuredproducts/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_imageslider/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_languageselector/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_linklist/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_mainmenu/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_searchbar/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_sharebuttons/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_shoppingcart/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_socialfollow/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_themecusto/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/psaddonsconnect/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/sekeywords/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsbestcategories/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsbestcustomers/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsbestproducts/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsbestsuppliers/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsbestvouchers/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statscarrier/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statscatalog/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statscheckup/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsdata/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsequipment/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsforecast/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statslive/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsnewsletter/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsorigin/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statspersonalinfos/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsproduct/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsregistrations/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statssales/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statssearch/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsstock/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/statsvisits/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/welcome/translations/ka.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/translations/cldr/main--ka-GE--currencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/translations/cldr/main--ka-GE--numbers" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/28/5b6b615f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_2_1.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1d/bf/5e/1dbf5e878661b1899e72c05c06018f044b9ea159_0.file.main.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/36/29/73/36297373f2c04fac9ddd476f92a5b48cd313b510_0.file.translation_modules.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/93/83/cc/9383cca98e0f2598b556ec2731fe7f4e0aec0f29_0.file.kpi.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/99/90/5f/99905fd6862f8b055b7b339f599c054a4c571da8_0.file.row.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b0/ad/91/b0ad918937b3e247387e34badfaa185aba2ac99c_0.file.view.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d7/35/12/d73512a1e2bedd6c8cd574c2fe7ad93cb9738551_0.file.layout-ajax.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/translations/catalogue.ka-GE.NXhscRe.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/prod/translations/catalogue.ka-GE.NXhscRe.php.meta" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" />
-      <change beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
-      <change beforePath="$PROJECT_DIR$/modules/mymodule/mymodule.php" afterPath="$PROJECT_DIR$/modules/mymodule/mymodule.php" />
-      <change beforePath="$PROJECT_DIR$/modules/mymodule/views/templates/front/display.tpl" afterPath="$PROJECT_DIR$/modules/mymodule/views/templates/front/display.tpl" />
-      <change beforePath="$PROJECT_DIR$/modules/mymodule/views/templates/hook/mymodule1.tpl" afterPath="$PROJECT_DIR$/modules/mymodule/views/templates/hook/mymodule1.tpl" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/appProdProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/prod/appProdProjectContainer.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/2/K/Z6u6OmsvgJwc7ebtEOgh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/G/X/yZNbBRIFFz8iml0QPV-9" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/J/2/kS0KKoNDGN-JrVNBsv6r" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/S/U/6o6dzHtlv4XY2uRmc8-E" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/V/M/I4YHK9JMxDcK9X3ajugA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/X/K/rEJ4r9WOezFcAoiYdRLC" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/LrI32thFSI/Z/A/99emlbQjC0ng+R6SqgrU" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/0/L/+1E4-tJlOgxHoTPgYwUW" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/0/L/b2GBcO1zC3hIyxdiunFC" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/1/B/-yccUXhRMeZX1uRHh5l4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/1/K/mdMDbKyur3tHIDDMFofu" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/1/T/koGQcV33-g9W2jCAv+v2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/2/R/GNI0umNJWrLsgEVLp6vi" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/3/+/PVI2nM5YJ8j8DPvx1r1+" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/3/0/rQtPSUUs-b-twxrS00W+" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/4/0/bk6hq4u73ckcZFv18EF6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/4/4/nKj0l0+Dg-YYnjgqCnZk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/4/J/avRpNLEMIF5H14JJk2ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/4/S/vuHDu-J8iDfziRhqVdAg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/5/0/uWKsHvyuWEJ40Hrcdehy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/5/N/4Z1c3knrs71h-eFwoBA+" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/6/P/l1WquwF7+ogI1SggnQvu" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/7/Z/dzQ0MDAgiymBRw3Bwway" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/8/7/w5IONcTuHNJsDFZYVG2n" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/8/P/ThaIcmeXxyxruupOYt6r" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/8/Q/EX7NIhwujA4CnsLnwYUs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/9/F/P83wdq-A989fMXbm6iex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/9/H/caEfvIKJi34OtazcKxJQ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/9/V/9SWCJ9071ZOdlKVmTw5Q" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/A/Y/27ewsL-Bom4L95kOl0UU" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/B/G/-cc9VSbMN-a-BeiYTUlt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/B/R/aGLCTqCnGG-691fm97ow" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/B/Z/TxQ7oSlbLMRz81Jy22nd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/C/P/HM3Mm6GDX0YNr3QKxUzi" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/D/W/PMgym+-NjCPNYxoSFwJS" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/D/Y/HhIP7bvK9y+xr6znW497" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/2/5iOWHYETLgv9PeTOMyK-" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/4/-437DIruN8K3ZdhW9PfB" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/4/kB+0PPBhxrxgAPnseOIZ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/8/2Uuxytrh2uHpjoX+2GiR" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/B/-so7yD+FrOBteDdNyrA3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/C/+a-juMnC-6wrYDtK5zFq" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/C/Ic5NzoyQ2AVO2CjLtSiK" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/D/hk+YpKZ798XEHAtoz1PY" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/E/Y/+1B5fCDnp3gBOcefFqVE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/F/C/8PStXqzXDiPzjFBY+sXM" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/F/H/+-BD8oCa01F7lHA+QEFQ" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/F/L/SLA3Jk7OJHD4R6ZcvsXI" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/F/R/rFZzYUhhF+JAf1r-8yvY" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/G/+/2a9RfBBCS1Zc-wSgNt6Y" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/G/M/eV2zE7Ppo5IT-WbwnYjI" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/G/U/jnGxMbkiSWEqCxEh3NYS" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/H/-/rfBWO2GDbjlS6uzm-BoA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/H/6/j8+cghraAhYS0pThVOgm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/H/A/t+zo8cucUxL6FyI6HtnD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/H/Z/Zx+V0i171SLoW86n9ec5" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/I/4/0spmTLDKQRuj5eXNoC1y" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/I/T/4-yirAcVqHeNHpn-RW4G" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/I/V/frRseTU4YnBjCSgYqC2u" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/J/9/fK-0Qsp8GWHJBogrbkFU" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/J/G/iTzKcghJDkhrCQAuuR-v" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/J/H/B-SK5GIZ6YDywMLtt6mP" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/J/N/+FRaZ8c6em8c9GEQ+O04" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/K/4/6Zv-5vwEA-MVXBGfZCtC" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/K/9/K2APUNtg1HeND6KsZV07" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/K/C/EoKVmR-yUakq-0xBBqlC" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/K/P/z3tByXXY2yPHf-zdw9ig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/K/T/gXXX790BNr+Uk2vcP0bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/L/R/NflnZBci0FJ-Y6ftyg0s" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/L/S/1rU781iOqUD92u9-QHQE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/M/N/AaiqL8l4aevJCCJbF3B5" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/M/T/KgOQSvWT0r+9U-Var7My" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/M/V/eXcNdRS-1d4-m2-ENFUm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/N/N/Xzff1A84Lujn7+Y-Hw-n" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/O/T/S2UAOjVEEbVtKkETF0qE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/O/V/Q6gUYNeCAK96VkKiw--I" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/-/yWOW1By39Rapdo4mL10L" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/1/-JT2BFOFH-WoCVPznTfg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/A/x2UYddj1jB0IqrWysJ5W" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/E/ZxIOlH-L+OtqGzZXlIwh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/Q/aPWv5YMq-MoItfdm95D8" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/R/55-At6vpyXh4OLiVmxaw" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/S/Kb2TrT0+QwGzA0AiORWn" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/U/q-Hmb+rIKBTqjqsMuTaf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/P/Y/clcEVERsv7CTMt8XtZ+-" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Q/E/FI92Mb0b03atDK+DNqUL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/R/0/gLjtTxr+mUaASKoIGWGL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/R/Q/sLjeBU+wDhukWLJXwBNa" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/R/V/GYnV-cqF4XRc9U4fNjjh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/S/3/22PWZVEy1svg03Y2ENF3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/S/N/G85Q0Do5+4gJQG9SFAXX" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/S/W/ayMZu2iab7hpGuXgAiXV" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/T/J/gqLWyxAi8aYhmiJ1AgFg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/T/Z/sOhicdXe252g8NJ+7CZt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/U/A/-JoBBPAqPexhAInyyaAW" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/U/W/oKavDsRTcu7nPaTksnSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/V/D/tbn7+ns0SfFMjDMFtMqN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/V/Y/FVNItuG0KIB1Qzv1LEU+" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/V/Z/hCqDCkGATPmDTv3PsFFG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/0/CWlwMd9IPeZTEOUTkpVV" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/4/5g79ziqOSfQnIloWVssL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/9/x7whnRano11-pvaTFyGI" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/B/xOQeI0TThn3uRcslmkFU" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/I/59XQSGg-R1LDuGs+5HRM" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/W/K/-NT6wj9NsrWQub1xclfR" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/X/6/vGKadHFdys5tKRKUvELw" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/X/P/0G45vMkDjk-x0wqRaJhv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/X/Q/4n0cqt-72bNPm9zh0usb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Y/4/DGR17QehbvCKAAKqP3zi" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Y/D/btv1soUjS+QL9JMsMtKv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Y/X/5jPxB6xhxRs42P7+wS9S" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Y/Z/qwajmqAn9Xq4CNoGfmj5" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/+/6edUjHS2KQXCVbaAdFyB" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/-/UZ2Pfzpi+NuCjO26XTag" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/G/fK9z3t8VXNPSXJ14ymK4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/H/LZmXuUoVnBFhPIzjk-As" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/H/XcU8ow1xukkhFhYQlbCK" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/P/-A3+0itql+WUAKFxc+TR" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/pools/g2QXrOFf37/Z/V/drnlniRBkXHXRNN63bLd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_1_1.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/03/03/08/03030881d967fa37a79688adccfe478da5e1ec37_0.file.error_messages.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/05/ae/11/05ae11e5247dc72e4b1d8bdf006dda26fd10cc0c_2.file.active_filters.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/05/ae/11/05ae11e5247dc72e4b1d8bdf006dda26fd10cc0c_2.file.active_filters.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/09/3d/ea/093dea548ac977ac9cf7e9f7aaaf46f586d781e1_0.file.content.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/09/3d/ea/093dea548ac977ac9cf7e9f7aaaf46f586d781e1_0.file.content.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/0d/c6/03/0dc60338bc8bab45fc5a9cd512d45817981cf1ce_0.file.content.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/0e/b2/11/0eb2119957cbc13b240126b3ccd8fac8f109f1e2_2.module.pscontactinfonav.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/0e/b2/11/0eb2119957cbc13b240126b3ccd8fac8f109f1e2_2.module.pscontactinfonav.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617_2.module.pssearchbarpssearchbar.tp.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617_2.module.pssearchbarpssearchbar.tp.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/13/dd/aa/13ddaaadf562438e4ba244d359c2b3d7d50edc1f_0.file.content.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/19/4d/b5/194db5b995f7e614c664d7d1ecf7309a6350a36b_0.file.end.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1a/05/cf/1a05cf2b3a7160a85bc506f165d3c2dd1ace379e_2.file.mymodule1.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1a/05/cf/1a05cf2b3a7160a85bc506f165d3c2dd1ace379e_2.file.mymodule1.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1c/00/f7/1c00f78dace25d509ec3a1f54176b7ae2000accf_2.module.pslanguageselectorpslangu.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1c/00/f7/1c00f78dace25d509ec3a1f54176b7ae2000accf_2.module.pslanguageselectorpslangu.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1e/22/12/1e221228539961907b2b0e1f3c29799b1be854bf_0.file.tooltip.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/23/24/d6/2324d6ad5f7720e11b84068728ec98641ba3d606_0.file.navbar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/23/24/d6/2324d6ad5f7720e11b84068728ec98641ba3d606_0.file.navbar.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/26/1c/87/261c87ca38edcd8cc942181743570c9b020b58b7_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/26/1c/87/261c87ca38edcd8cc942181743570c9b020b58b7_0.file.modal.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2a/54/c0/2a54c0901211bc3c3ccac10482d90f23462aae48_0.file.navbar.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2b/30/a6/2b30a6bcd6281831448dc057389f782db25c6202_0.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2b/30/a6/2b30a6bcd6281831448dc057389f782db25c6202_0.file.notification_bt.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2b/59/58/2b59587c48fa84697cb32ec4382a19fee01a3ef9_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2b/59/58/2b59587c48fa84697cb32ec4382a19fee01a3ef9_0.file.dashboard_zone_two.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/30/7d/c6/307dc6bd4724d29d1572cc301dd7148e962604ef_2.module.psemailsubscriptionviewst.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/30/7d/c6/307dc6bd4724d29d1572cc301dd7148e962604ef_2.module.psemailsubscriptionviewst.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/32/e2/dd/32e2ddec56f0ff1addd4aa595e60cafd4efecb77_0.file.popup.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/32/e2/dd/32e2ddec56f0ff1addd4aa595e60cafd4efecb77_0.file.popup.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/35/65/5e/35655e6409b6198f29dd6e732ef9598dec599880_2.module.psshoppingcartpsshoppingc.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/35/65/5e/35655e6409b6198f29dd6e732ef9598dec599880_2.module.psshoppingcartpsshoppingc.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/37/26/74/372674dfa40df9e5dd99e4e69ffb9cf2a6b60cbc_0.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/37/26/74/372674dfa40df9e5dd99e4e69ffb9cf2a6b60cbc_0.file.footer.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/38/65/08/386508348d299c2b8360bb9a88475d438177b1c0_0.file.notifications_center.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/38/c5/e6/38c5e664e4e46eac5160ffc6ca2138fb7c899aba_0.file.content.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/38/c5/e6/38c5e664e4e46eac5160ffc6ca2138fb7c899aba_0.file.content.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/40/b9/8e/40b98eaf6fcf8ec1596a0aef099cb33f1b55afa3_0.file.layout.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/40/b9/8e/40b98eaf6fcf8ec1596a0aef099cb33f1b55afa3_0.file.layout.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/41/df/19/41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/41/df/19/41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/42/f9/46/42f9461127ce7396a601c2484841253ea5ba658f_2.module.pscustomeraccountlinkspsc.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/42/f9/46/42f9461127ce7396a601c2484841253ea5ba658f_2.module.pscustomeraccountlinkspsc.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/84/16/468416c547b4bc82f203cfce335510ec158795dd_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/84/16/468416c547b4bc82f203cfce335510ec158795dd_0.file.dashboard_zone_two.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/ba/2c/46ba2c90a77a60dcf8ff40ab7630dbfcbc2bda46_0.file.lost.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/4f/1a/2d/4f1a2db668af9dd768b35b47d570a89a5227c147_0.file.modal.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/4f/71/00/4f7100d709a04bbe3933c9949d61590db33862a6_0.file.config.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/4f/71/00/4f7100d709a04bbe3933c9949d61590db33862a6_0.file.config.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/51/ae/20/51ae2099f5000dbebe68c1af3ff28a7804f2f9a3_0.file.popup.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/54/b0/92/54b092447198f1eafa56346409a347d6cf69bee3_0.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/54/b0/92/54b092447198f1eafa56346409a347d6cf69bee3_0.file.header.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/5c/fb/d6/5cfbd6fa2c7172549bc9696ceb7ea6616f4c08c8_0.file.non-responsive.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/5d/c7/b9/5dc7b9353a42d5152cdb3af7ada12bed719ed032_0.file.footer.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/62/cd/7c/62cd7c707820831d2156b8f36b7a5ad326fe0885_2.file.facets.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/62/cd/7c/62cd7c707820831d2156b8f36b7a5ad326fe0885_2.file.facets.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/65/b4/64/65b4643023eeaa4d1f49593cc901c1b66787cbc4_0.file.warning_messages.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/66/26/05/66260561d294d8c80d610c5183c103fb2e2fc1ef_0.file.form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/66/26/05/66260561d294d8c80d610c5183c103fb2e2fc1ef_0.file.form.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/6d/67/ed/6d67edbaa7e5013dbe6f74bb038505e131a82e1e_0.file.form.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/73/a0/e1/73a0e10f5aaf3755d5534d016fda660dd6b0fabd_0.file.login_addons.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/75/05/8e/75058e2327028990b910839807cbeedf9d386635_0.file.layout.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7a/fe/c3/7afec312475a2408b997c97ff183c4cb8e4984b3_0.file.welcome.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/80/ac/9d/80ac9ddb06fe7b43ffdd2f5cd1185536480d2577_2.module.pssocialfollowpssocialfol.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/80/ac/9d/80ac9ddb06fe7b43ffdd2f5cd1185536480d2577_2.module.pssocialfollowpssocialfol.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/a1/04/81a1040ed0eeab6f58198f9907167c7fced628c5_2.module.psfacetedsearchpsfaceteds.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/a1/04/81a1040ed0eeab6f58198f9907167c7fced628c5_2.module.psfacetedsearchpsfaceteds.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/82/57/8d/82578d7ead66012c597e177fb6f6b58528aaee88_0.file.end.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/82/57/8d/82578d7ead66012c597e177fb6f6b58528aaee88_0.file.end.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/83/35/a0/8335a0f8e835e89c517c5cc496b645172e7f4ba5_0.file.content.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/86/a9/62/86a962ae134a83f32323f9e5da217a8084da1cfa_0.file.tooltip.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/86/a9/62/86a962ae134a83f32323f9e5da217a8084da1cfa_0.file.tooltip.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/87/9d/5a/879d5afc5b2bae1abe4b5213b3ccb7e2f31682c9_0.file.shop_list.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/89/21/00/8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.pscategorytreeviewstempla.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/89/21/00/8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.pscategorytreeviewstempla.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872_2.module.pslinklistviewstemplatesh.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872_2.module.pslinklistviewstemplatesh.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/97/8c/40/978c405fedb4e6477fb68a4f64970c1cf4896eda_0.file.search_form.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/99/92/f3/9992f3fe04dd41bcec1a2029cf07bead637caf4d_2.module.pscontactinfopscontactinf.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/99/92/f3/9992f3fe04dd41bcec1a2029cf07bead637caf4d_2.module.pscontactinfopscontactinf.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/9b/47/ed/9b47ed0c9c3d7c4d9ab578c8ee5afd08d4935d54_0.file.javascript.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/9c/89/b5/9c89b53537ce8ee7d32bf695b273945c5ff9e88a_0.file.view.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/9c/89/b5/9c89b53537ce8ee7d32bf695b273945c5ff9e88a_0.file.view.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a1/6c/87/a16c875a6636cc678907eb8ff635722e9504c685_0.file.list_modules.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a3/2f/1b/a32f1b5146bb0ae20dfe7b64978f45ab310429f8_0.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a3/2f/1b/a32f1b5146bb0ae20dfe7b64978f45ab310429f8_0.file.search_form.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a9/37/a2/a937a2701d68aba5b5a70cc0ba850846f5f226d3_0.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a9/37/a2/a937a2701d68aba5b5a70cc0ba850846f5f226d3_0.file.dashboard_zone_one.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/ae/da/13/aeda13e78da21886cdc7062f9eb82d5a1fe6f0ad_0.file.content.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/ae/da/13/aeda13e78da21886cdc7062f9eb82d5a1fe6f0ad_0.file.content.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b6/3e/21/b63e21c23469bc17230827f7e70d3be2b83a5cc1_0.file.information_messages.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b6/9a/a2/b69aa210e0f439c1a329acebaa173222bbfffb97_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b6/9a/a2/b69aa210e0f439c1a329acebaa173222bbfffb97_0.file.dashboard_zone_two.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b8/05/7d/b8057d53a84256d73f59148f040568d3b4dd6d8a_0.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b8/05/7d/b8057d53a84256d73f59148f040568d3b4dd6d8a_0.file.header.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/ba/f9/24/baf9246e11ae8a3154a4f0e109b18a47455b3698_0.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/ba/f9/24/baf9246e11ae8a3154a4f0e109b18a47455b3698_0.file.dashboard_zone_one.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/bb/81/ed/bb81ed9479d5f54c59a1add8ff0bed7b728f5140_0.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/bb/81/ed/bb81ed9479d5f54c59a1add8ff0bed7b728f5140_0.file.page_header_toolbar.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/bd/bb/4d/bdbb4d3c93471b4ddba50381855dc1468dd038d8_0.file.layout.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/bd/bb/4d/bdbb4d3c93471b4ddba50381855dc1468dd038d8_0.file.layout.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/be/33/4a/be334ad3881b7b15abf01147f9acb39c6088f0f3_0.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/be/33/4a/be334ad3881b7b15abf01147f9acb39c6088f0f3_0.file.welcome.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/c1/2c/b2/c12cb2e3c5706621991f9254e8e9cc84898fb660_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/c1/2c/b2/c12cb2e3c5706621991f9254e8e9cc84898fb660_0.file.modal.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/c2/b9/31/c2b9314f837ddd2ce9f3a61e340401744ad1c78a_0.file.nav_bar.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c_2.module.pscustomersigninpscustome.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c_2.module.pscustomersigninpscustome.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/da/78/1a/da781a3b894c56d168baf57dc325e2615d5e5ca0_0.file.page_header_toolbar.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/de/4d/0b/de4d0b6d16701edcd702d48a57e67107884a9a34_0.file.nav.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/de/4d/0b/de4d0b6d16701edcd702d48a57e67107884a9a34_0.file.nav.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/e4/56/37/e456372fcef7252a6421f9fee83d7dfdb8307480_0.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/e4/56/37/e456372fcef7252a6421f9fee83d7dfdb8307480_0.file.login_addons.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/e7/db/ca/e7dbcac742c9420d3dbc892c7e38ea2eed652e97_0.file.confirmation_messages.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f0/51/19/f05119b3bfb7c8151b7433b5d090395ed55a5526_0.file.lost.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f0/51/19/f05119b3bfb7c8151b7433b5d090395ed55a5526_0.file.lost.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/8d/74/f28d74a85a8cb5d867ba3efadd028bbaf45eb8b5_0.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/8d/74/f28d74a85a8cb5d867ba3efadd028bbaf45eb8b5_0.file.javascript.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f3/66/09/f36609c9ee92cbcaa310a5d67725719d81745c9d_0.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f3/66/09/f36609c9ee92cbcaa310a5d67725719d81745c9d_0.file.calendar.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f3/af/ca/f3afcab14a2a8c8f4ccd3531dfd9d883c6b7ad58_0.file.header.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f9/c8/2d/f9c82d7f0a240cae78d329bc45e95512b9f2369e_0.file.employee_dropdown.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/fc/3c/98/fc3c98714d2bbd57104d54e594d324bb2840aadd_0.file.quick_access.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/1f/1b/95/1f1b95c0b4cb495876d079ffb98fe5dbcd836d67_2.file.not-found.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/28/14/00/281400154d1325dfaad2d21a79209c3cfa363276_2.file.layout-full-width.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/28/14/00/281400154d1325dfaad2d21a79209c3cfa363276_2.file.layout-full-width.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/2c/51/d5/2c51d558010271a83c5bffdb174b0198ed6e7044_2.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/2c/51/d5/2c51d558010271a83c5bffdb174b0198ed6e7044_2.file.header.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/41/24/ea/4124ea55c2516e3e5d4bcb7944b9eae72bdf3654_2.file.head.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/41/24/ea/4124ea55c2516e3e5d4bcb7944b9eae72bdf3654_2.file.head.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/44/b8/7a/44b87abbb8f93731267df519fa4088ac28574f18_2.file.404.tpl.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/4b/90/f1/4b90f1d42b809d446cc19445a4c5ea5bffa77e60_2.file.notifications.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/4b/90/f1/4b90f1d42b809d446cc19445a4c5ea5bffa77e60_2.file.notifications.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/4d/75/a8/4d75a884653219e3c91d49bc1b896dcd364d41b8_2.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/4d/75/a8/4d75a884653219e3c91d49bc1b896dcd364d41b8_2.file.footer.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/76/19/2b/76192b040223c6dfdc40001cef89e3f248aa3f8b_2.file.page.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/76/19/2b/76192b040223c6dfdc40001cef89e3f248aa3f8b_2.file.page.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/90/18/b3/9018b352e40b83c176674c5a4c783661b3324b62_2.file.breadcrumb.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/90/18/b3/9018b352e40b83c176674c5a4c783661b3324b62_2.file.breadcrumb.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/9b/a3/af/9ba3afcb3cb699e016ec652a3422b54820011ccc_2.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/9b/a3/af/9ba3afcb3cb699e016ec652a3422b54820011ccc_2.file.javascript.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/b5/1d/55/b51d55caaad7472ff3e925e59dccedd0b23da348_2.file.stylesheets.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/b5/1d/55/b51d55caaad7472ff3e925e59dccedd0b23da348_2.file.stylesheets.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ca/8f/2c/ca8f2cbd6d6f77b41b67b1b13528d3b3f35063a2_2.file.layout-both-columns.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ca/8f/2c/ca8f2cbd6d6f77b41b67b1b13528d3b3f35063a2_2.file.layout-both-columns.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ce/60/f0/ce60f07e67fdf46de837f0e786748376299681f6_2.file.product-activation.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ce/60/f0/ce60f07e67fdf46de837f0e786748376299681f6_2.file.product-activation.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ff/b9/77/ffb9770439b464b701bf2d2bd8fb9ff2864ded44_2.module.mymoduleviewstemplatesfro.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ff/b9/77/ffb9770439b464b701bf2d2bd8fb9ff2864ded44_2.module.mymoduleviewstemplatesfro.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/21/f0/8b/21f08b366ce72bdb1a5f8c4807686307b4e8f0e9_2.file.pagination.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/21/f0/8b/21f08b366ce72bdb1a5f8c4807686307b4e8f0e9_2.file.pagination.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/22/c7/93/22c7935b3a5061ca577d9c50d4f0a66a24698d89_2.file.product-list.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/22/c7/93/22c7935b3a5061ca577d9c50d4f0a66a24698d89_2.file.product-list.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/2c/51/d5/2c51d558010271a83c5bffdb174b0198ed6e7044_2.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/2c/51/d5/2c51d558010271a83c5bffdb174b0198ed6e7044_2.file.header.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/2f/7d/77/2f7d77f9457db6f7a4247fdb519b67a0dc1d6321_2.file.products-bottom.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/2f/7d/77/2f7d77f9457db6f7a4247fdb519b67a0dc1d6321_2.file.products-bottom.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/41/24/ea/4124ea55c2516e3e5d4bcb7944b9eae72bdf3654_2.file.head.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/41/24/ea/4124ea55c2516e3e5d4bcb7944b9eae72bdf3654_2.file.head.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4b/90/f1/4b90f1d42b809d446cc19445a4c5ea5bffa77e60_2.file.notifications.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4b/90/f1/4b90f1d42b809d446cc19445a4c5ea5bffa77e60_2.file.notifications.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4d/75/a8/4d75a884653219e3c91d49bc1b896dcd364d41b8_2.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4d/75/a8/4d75a884653219e3c91d49bc1b896dcd364d41b8_2.file.footer.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4f/a1/b3/4fa1b3e05c0c3b1df29aeea0382f6bcb8f5f8dd6_2.file.layout-left-column.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/4f/a1/b3/4fa1b3e05c0c3b1df29aeea0382f6bcb8f5f8dd6_2.file.layout-left-column.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/6b/9e/d7/6b9ed765d68a56460c113ed3f325c6effd2c6df1_2.file.variant-links.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/6b/9e/d7/6b9ed765d68a56460c113ed3f325c6effd2c6df1_2.file.variant-links.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/78/ee/8d/78ee8db982cda553f9685296abf6760220b2fe07_2.file.sort-orders.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/78/ee/8d/78ee8db982cda553f9685296abf6760220b2fe07_2.file.sort-orders.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/90/18/b3/9018b352e40b83c176674c5a4c783661b3324b62_2.file.breadcrumb.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/90/18/b3/9018b352e40b83c176674c5a4c783661b3324b62_2.file.breadcrumb.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/9b/a3/af/9ba3afcb3cb699e016ec652a3422b54820011ccc_2.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/9b/a3/af/9ba3afcb3cb699e016ec652a3422b54820011ccc_2.file.javascript.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/b5/1d/55/b51d55caaad7472ff3e925e59dccedd0b23da348_2.file.stylesheets.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/b5/1d/55/b51d55caaad7472ff3e925e59dccedd0b23da348_2.file.stylesheets.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/bb/dc/78/bbdc78d65c8299fcf5cb49b2d6a6016a40ce64fc_2.file.products.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/bb/dc/78/bbdc78d65c8299fcf5cb49b2d6a6016a40ce64fc_2.file.products.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/c7/2c/22/c72c22da52be0e3275c61ae65410da5de5005c0e_2.file.product.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/c7/2c/22/c72c22da52be0e3275c61ae65410da5de5005c0e_2.file.product.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/ca/8f/2c/ca8f2cbd6d6f77b41b67b1b13528d3b3f35063a2_2.file.layout-both-columns.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/ca/8f/2c/ca8f2cbd6d6f77b41b67b1b13528d3b3f35063a2_2.file.layout-both-columns.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/ce/60/f0/ce60f07e67fdf46de837f0e786748376299681f6_2.file.product-activation.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/ce/60/f0/ce60f07e67fdf46de837f0e786748376299681f6_2.file.product-activation.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/dc/ad/1a/dcad1a1611a95267967c3ac61314b4f09b32e2e4_2.file.products-top.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/dc/ad/1a/dcad1a1611a95267967c3ac61314b4f09b32e2e4_2.file.products-top.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/eb/19/dd/eb19dd624be94f1a2ba160dab2ef4eeb8adc0831_2.file.category.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/layouts_layout_left_column_tpl/eb/19/dd/eb19dd624be94f1a2ba160dab2ef4eeb8adc0831_2.file.category.tpl.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/translations/catalogue.en-US.L8dqxxF.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/translations/catalogue.en-US.L8dqxxF.php.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/0c/0cce9034b672202dbbd26a6a3b8b092184f6ab063fbc648d7be51d92569a2eb4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/1b/1bf5208fcbb68355f6082a97dc96619c1537b9b68f6c16e45ca6f21907c93101.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/6a/6a76c4e1ac87b22c34b9ec39b779c65695824fc5627aeb11d828d2502c458a56.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/75/759dd3bc51c7678b1171644e10b115888491004de7a7ad4fe920adb10e02534c.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/76/76b9103a70ea92f74489774e981daba6c3ad404c19a282757530ec3fd338985c.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/87/87ad18349ce2066f4c49aa677611d6821801cab659cb5e8f29e57bbfef529d87.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/ad/ad6db3cda01fe9f3fa734b3628d4699e3252b23b9c1392eff60f398134e08cbe.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/d2/d247b895d0f37a0e78871172a4c7856db4b7bc9be990dc4bf6672d368b5b498f.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/d9/d9271cb474968529780dc42eed438cccda6b21e82f951417ca9ebb192ec4553e.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/e3/e3d1d78dd486f477f7270a06a9e04347382e5012ad71c0cca5ada21f7b3ccf29.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/e8/e836250314d019d9fe3b8b11189a8779296552f47cf969115b11b6d41054da01.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/prod/twig/f3/f35ab2122101fb10abe8ab228320bd62ee3842856b7d6ccc1557f5594b353b7c.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/logs/prod.log" afterPath="$PROJECT_DIR$/var/logs/prod.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -353,17 +29,27 @@
         <entry file="file://$PROJECT_DIR$/modules/mymodule/mymodule.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="586">
               <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/mytheme/config/theme.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1422">
+              <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -445,6 +131,7 @@
         <option value="$PROJECT_DIR$/modules/mymodule/views/templates/front/display.tpl" />
         <option value="$PROJECT_DIR$/modules/mymodule/mymodule.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/themes/mytheme/config/theme.yml" />
       </list>
     </option>
   </component>
@@ -459,10 +146,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1912" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -489,6 +175,24 @@
               <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="prestashop" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mytheme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mytheme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -505,11 +209,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp7.1\htdocs\prestashop\themes\mytheme" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xampp7.1\htdocs\prestashop\modules\mymodule\controllers\front" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -540,7 +245,7 @@
       <workItem from="1536605648036" duration="778000" />
       <workItem from="1536724647340" duration="3250000" />
       <workItem from="1536738242200" duration="7238000" />
-      <workItem from="1536821899535" duration="5891000" />
+      <workItem from="1536821899535" duration="6499000" />
     </task>
     <task id="LOCAL-00001" summary="--">
       <created>1536728265853</created>
@@ -553,10 +258,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17157000" />
+    <option name="totallyTimeSpent" value="17765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13802363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -566,7 +272,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22284435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22284435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -835,7 +541,7 @@
     <entry file="file://$PROJECT_DIR$/modules/mymodule/mymodule.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -844,6 +550,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
           <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mytheme/config/theme.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
           <folding />
         </state>
       </provider>
